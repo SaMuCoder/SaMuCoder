@@ -1,8 +1,9 @@
 <h1 align="center">Hi :wave:, I'm SaMu</h1>
-<h3 align="center">* 🌍  I'm based in /\\/\\/\\/\\/\\/\\</h3>
-<h3 align="center">* 🧠  I'm learning Web Development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samucoder&label=Profile%20views&color=0e75b6&style=flat" alt="samucoder" /> </p>
+
+<p align="center">* 🌍  I'm based in /\\/\\/\\/\\/\\/\\</p>
+<p align="center">* 🧠  I'm learning Web Development</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samucoder" alt="samucoder" /></a> </p>
 
