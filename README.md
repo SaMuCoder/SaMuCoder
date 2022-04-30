@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samucoder" alt="samucoder" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="http://www.github.com/SaMuCoder"><img src="https://github-readme-stats.vercel.app/api?username=SaMuCoder&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SaMuCoder's GitHub stats" /></a>
+<p align="left"> <a href="https://www.github.com/SaMuCoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 <p align="left">
 </p>
 
