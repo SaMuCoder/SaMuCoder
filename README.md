@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi 👋 My name is Samuel
+Hi 👋 I'm SaMu
 =======================
 
 Learning Web Development
