@@ -18,3 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samucoder&show_icons=true&locale=en" alt="samucoder" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samucoder&" alt="samucoder" /></p>
+
