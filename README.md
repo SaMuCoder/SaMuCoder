@@ -6,8 +6,8 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samucoder" alt="samucoder" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
-<p align="left"> <a href="https://www.github.com/SaMuCoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-<p align="left">
+<p align="center"> <a href="https://www.github.com/SaMuCoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="center">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
