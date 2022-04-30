@@ -16,3 +16,6 @@
 <span><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samucoder&show_icons=true&locale=en&layout=compact" alt="samucoder" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samucoder&" alt="samucoder" /></p></span>
+
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
